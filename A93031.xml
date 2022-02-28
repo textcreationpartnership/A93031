@@ -1,0 +1,1641 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merry conceited humors of Bottom the weaver. As it hath been often publikely acted by some of his majesties comedians, and lately, privately, presented, by several apprentices for their harmless recreation, with great applause.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93031</idno>
+            <idno type="STC">Wing S2937</idno>
+            <idno type="STC">Thomason E1085_13</idno>
+            <idno type="STC">ESTC R208092</idno>
+            <idno type="EEBO-CITATION">99867087</idno>
+            <idno type="PROQUEST">99867087</idno>
+            <idno type="VID">119377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119377)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merry conceited humors of Bottom the weaver. As it hath been often publikely acted by some of his majesties comedians, and lately, privately, presented, by several apprentices for their harmless recreation, with great applause.</title>
+                  <author>Shakespeare, William, 1564-1616. Midsummer night's dream. Selections</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for F. Kirkman and H. Marsh, at the Io. Fletchert Head, on the backside of St. Clements, and the Princes Arms in Chancery Lane nere Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>From A Midsummer night's dream. Cf. Nicoll, p. 418.</note>
+                  <note>Annotation on Thomason copy: "march 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:119377:1"/>
+            <pb facs="tcp:119377:1"/>
+            <head>The Stationers to the Reader.</head>
+            <p>GEntlemen, the entreaty of ſeveral Per<g ref="char:EOLhyphen"/>ſons, our friends, hath enduced us to the publiſhing of this Piece, which (when the life of action was added to it) pleaſed gene<g ref="char:EOLhyphen"/>rally well. It hath been the deſire of ſeveral (who know we have many pieces of this nature in our hands) that we ſhould publiſh them, and we con<g ref="char:EOLhyphen"/>ſidering the general mirth that is likely, very ſuddainly to happen about the Kings Coronation; and ſuppoſing that things of this Nature, will be acceptable, have therefore begun with this which we know may be eaſily acted, and may be now as fit for a private recreation as formerly it hath been for a publike. If you pleaſe to encourage us with Your acceptance of this, you will enduce us to bring you forth our ſtore, and we will aſſure you that we are plentifully furniſhed with things of this Nature; Receive this then with good will as we intend it, and others ſhall not only ſucceed it but you ſhall continue us</p>
+            <closer>
+               <signed>Your Servants, FRANCIS KIRKMAN. HENRY MARSH</signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:119377:2"/>
+            <head>The Names of the Actors.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="3">
+                        <hi>Quince</hi> the Carpenter who ſpeaks the Pro<g ref="char:EOLhyphen"/>logue.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bottome</hi> the Weaver</cell>
+                     <cell>
+                        <hi>Pyramus.</hi>
+                     </cell>
+                     <cell rows="3">who likewiſe may preſent three Faries.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flute</hi> the Bellowſmender.</cell>
+                     <cell>
+                        <hi>Thisbe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Snout</hi> the Tinker. </cell>
+                     <cell>
+                        <hi>Wall.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Snug the Ioyner.</hi>
+                     </cell>
+                     <cell cols="2">
+                        <hi>Lion.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Starveling</hi> the Taylor.</cell>
+                     <cell cols="2">
+                        <hi>Moonſhine.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="3">
+                        <hi>Oberon</hi> King of the Fairies, who likewiſe may pre<g ref="char:EOLhyphen"/>ſent the Duke.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">
+                        <hi>Titania</hi> his Queen the Dutcheſſe.</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">
+                        <hi>Pugg.</hi> a Spirit a Lord.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119377:2"/>
+            <head>THE Merry conceited Humours OF <hi>Bottome</hi> the <hi>Weaver.</hi>
+            </head>
+            <stage>Enter Bottome the Weaver, Quince the Carpeuter, Snug the Ioyner, Elute the Bellows mender, Snout the Tinker, and Starveling the Taylor.</stage>
+            <sp>
+               <speaker>Bottome</speaker>
+               <p>COme Neighbours let me tell you, and in troth I have ſpoke like a man in my daies, and hit right too, that if this buſineſs do but diſpleaſe his Graces fancy, we are all made men for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Quince.</speaker>
+               <p>I believe ſo too neighbour, but is all our compa<g ref="char:EOLhyphen"/>ny here?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>You had beſt to call them generally man by man according to the Scrip.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Here is the ſcrowl of every mans name which is thought fit through all <hi>Athens,</hi> to play in our enterlude be<g ref="char:EOLhyphen"/>tween the Duke and the Dutcheſs on his Wedding day at night.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Firſt good <hi>Peter Quince</hi> ſay what the Play treats of, then read the names of the Actors, and ſo grow on to a point.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Marry our play is the moſt Lamentable Comedy, and moſt cruel death of <hi>Pyramus</hi> and <hi>Thisbe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>A very good piece of work I aſſure you, and a merry;
+<pb facs="tcp:119377:3"/>now good <hi>Peter Quince</hi> call forth your Actors by the Scrowl, Maſters ſpread your ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Anſwer as I call you, <hi>Nicolas Bottome</hi> the Weaver.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Ready, name what part I am for, and proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>You <hi>Nic. Bottome</hi> are ſet down for <hi>Pyramus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Wat is <hi>Pyramus,</hi> a Lover or a Tyrant?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>A Lover that kills himſelf moſt gallantly for Love.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>That will ask ſome tears in the true performing of it, If I do it, let the audience look to their eyes: I will move ſtorms, I will condole in ſome meaſure, to the reſt, yet my chief humour is for a Tyrant. I could play <hi>Eroles</hi> rarely, or a part to tear a cat in two, make all ſplit, the raging Rocks, and ſhivering ſhocks ſhall break the locks of Priſon gates, and <hi>Phibbus</hi> carre ſhall ſhine from far, and make and marre, the fooliſh fates: Now name the reſt of the Players. This is <hi>Eroles</hi> reigne, a Tyrants reigne, a Lover is more condoling.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Francis Flute</hi> the Bellowes-mender</p>
+            </sp>
+            <sp>
+               <speaker>Flut.</speaker>
+               <p>Here <hi>Petter Quince</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>You muſt take <hi>Thisbe</hi> on you,</p>
+            </sp>
+            <sp>
+               <speaker>Flut.</speaker>
+               <p>What is <hi>Thisbe</hi> a wandering Knight?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>It is the Lady that <hi>Pyramus</hi> muſt love.</p>
+            </sp>
+            <sp>
+               <speaker>Flut.</speaker>
+               <p>Nay faith, let not me play a woman, I have a beard coming</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Thats all one, you ſhall play it in a mask and you may ſpeak as ſmall as you will</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>And I may hide my face, let me play <hi>Thisbe</hi> too. I'le ſpeak in a monſtrous little voice <hi>Thisne Thisne,</hi> ah <hi>Pyra<g ref="char:EOLhyphen"/>mus</hi> my lover deare thy <hi>Thisbe</hi> deare and lover deare.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>No no, you muſt play <hi>Pyramus,</hi> and <hi>Flute</hi> you <hi>This<g ref="char:EOLhyphen"/>be</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Well proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Robbin Starveling</hi> the Taylor</p>
+            </sp>
+            <sp>
+               <speaker>Star.</speaker>
+               <p>Here <hi>Peter Quince</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi>Robbin Starveling</hi> you muſt play <hi>Thisby's</hi> mother. <hi>Tom Snout</hi> the Tinker</p>
+            </sp>
+            <sp>
+               <speaker>Sno.</speaker>
+               <p>Here <hi>Peter Quince.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:119377:3"/>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>You <hi>Pyramus</hi> father, my ſelf <hi>Thisby's</hi> father, <hi>Snug</hi> the Joyner you the Lyons part; and I hope theres a play fitted</p>
+            </sp>
+            <sp>
+               <speaker>Snug.</speaker>
+               <p>Have you the Lyons part written? Pray you if it be, give it me for I am ſlow of ſtudy.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>You may do it <hi>Ex tempore</hi> for it is nothing but roaring</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Let me play the Lyon too, I will Roare that I will do any mans heart good to hear me, I will roare that I will make the Dake ſay let him roare again let him roare again</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>if you ſhould do it too terribly, you would fright the Dutcheſſe and the Ladyes that they would ſhrike and that were enough to hang us all</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>That would hang every mothers Son</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I graunt you freinds that if they ſhould fright the Laydes out of their witts, they would have no more diſcre<g ref="char:EOLhyphen"/>tion but to hang us, but I will aggravate my voice ſo that I will roare you as gentle as any Sucking Dove, I will roare and twere any Nightingal</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>You can play no part but <hi>Pyramus,</hi> for <hi>Pyramus</hi> is a ſweetfaced man a proper man as one ſhall ſee in a Summers day, a moſt lovely Gentleman like man, therefore you muſt needs play <hi>Pyramus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Well I will undertake it, what beard had I beſt play it in?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Why what you will</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I will diſcharge it either in your ſtraw coloured beard, your Orange Tawny beard, your purple in graine beard, or your French crown coloured beard, your perfect Yellow.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Some of your French crowns have no haire at all and then you'l play barefaced. But maiſters here are your parts and I am farther to entreat you, requeſt you and de<g ref="char:EOLhyphen"/>ſire you, to con them by to morrow night, &amp; meet me in the Palace Wood a mile without the Town by moonlight, there we will rehearſe, for if we meet in the City wee ſhall be doggd by company and our devices known; in the mean time
+<pb facs="tcp:119377:4"/>I will draw a bill of properties ſuch as our play wants? I pray fail mee not.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>We will meet and there we may rehearſe more ob<g ref="char:EOLhyphen"/>ſcenely and Couragiouſly. Take pain. Be preſect. Adieu.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>At the Dukes Oake we meet?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Enough hold or cutt Bowſtrings—
+<stage>Exeunt.</stage>
+               </p>
+            </sp>
+            <stage>Enter Oberon King of the Fayries and Pugg a Spirit.</stage>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>I am reſolved and I will be revenged</l>
+               <l>Of my proud Queen <hi>Titania's</hi> injury,</l>
+               <l>And make her yeild me up her beloved page;</l>
+               <l>My gentle Pugg come hither thou Remembereſt</l>
+               <l>Since that I ſat upon a Promontory,</l>
+               <l>And heard a Mermaid on a Dolphins Back</l>
+               <l>Uttering ſuch dulcet and harmonious breath,</l>
+               <l>That the rude Sea grew civil at her Song;</l>
+               <l>And certain States ſhot madly from their Spheares,</l>
+               <l>To hear the Sea-maids muſick.</l>
+            </sp>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>I remember.</p>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>That very time I ſaw (but thou couldeſt not)</l>
+               <l>Flying between the cold Moon and the earth</l>
+               <l>
+                  <hi>Cupid</hi> all armed a certain aime hee took,</l>
+               <l>At a faire Veſtal throned by the weſt;</l>
+               <l>And loo'ſt his love-ſhaſt ſmartly from his bow,</l>
+               <l>As it ſhould peirce a hundred thouſand hearts:</l>
+               <l>But I might ſee young <hi>Cupids</hi> fiery ſhaft</l>
+               <l>Quench in the chaſt beames of the watry Moon,</l>
+               <l>And the Imperial Votreſs paſſed on</l>
+               <l>In maiden meditation fancy free,</l>
+               <l>Yet markt I where the bolt of <hi>Cupid</hi> fell</l>
+               <l>It fell upon a litle weſterne flower</l>
+               <l>Before milk white now purple with loves wound,</l>
+               <l>And maidens call it <hi>love in Idleneſs;</hi>
+               </l>
+               <l>Fetch me that flower the hearb I ſhew'd thee once</l>
+               <l>The juice of it on ſleeping eye lids laid</l>
+               <pb facs="tcp:119377:4"/>
+               <l>Will make or man or woman madly Dote</l>
+               <l>Upon the next live Creature that it ſees;</l>
+               <l>Fetch me this hearb and be thou here again</l>
+               <l>Ere the Leviathan can ſwim a league.</l>
+            </sp>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>I'le put a Girdel about the earth in forty minutes.
+<stage>Exit.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>Having once this juyce;</l>
+               <l>I'le watch <hi>Titania</hi> when ſhe is a ſleep</l>
+               <l>And drop the liquor of it in her eyes,</l>
+               <l>The next thing when ſhe waking looks upon</l>
+               <l>(Be it on Lyon, Bear or wolfe or Bull</l>
+               <l>On medling Monkey or on buſy Ape)</l>
+               <l>She ſhall perſue it with the ſoul of love</l>
+               <l>And ere I take this Charme from off her ſight</l>
+               <l>(As can take it with another hearb)</l>
+               <l>I'le make her render up her page to me.</l>
+               <l>Welcom wanderer, what ar't returned with it?</l>
+            </sp>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>I there it it is.</p>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>Come give it me?</l>
+               <l>There is a bank <hi>Titania</hi> uſeth of</l>
+               <l>In nights to ſleep on, but ſee where ſhe comes
+<stage>Enter Queen and Faires. Exit Pug.</stage>
+               </l>
+               <l>I'le ſtand aſide you may depart.</l>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <l>Come now a Roundel and a fairy ſong</l>
+               <l>To pleaſe my eye firſt then intice me ſleep</l>
+               <l>Then to your offices and let me reſt</l>
+            </sp>
+            <stage>Fayries firſt Dance and then ſings <hi>1.</hi>
+            </stage>
+            <sp>
+               <l>You Spotted Snakes with double tongue</l>
+               <l>Thorny Hedghoges be not ſeen</l>
+               <l>Newts and blind worms do no wrong</l>
+               <l>Come not mere our Fairy Queen</l>
+               <l>Philomele with melody</l>
+               <l>Singing your ſweet Lullaby</l>
+               <l>Lulla lulla lullaby lulla lulla lullaby</l>
+               <pb facs="tcp:119377:5"/>
+               <l>Nere harme, nor ſpell nor Charme</l>
+               <l>Come our lovely Lady by</l>
+               <l>So good-night with lullaby.</l>
+            </sp>
+            <sp>
+               <speaker>2 <hi>Fairy.</hi>
+               </speaker>
+               <l>Weaving ſpiders come not here</l>
+               <l>Hence you longlegd ſpinners hence</l>
+               <l>Beetles black approach not neare;</l>
+               <l>Worme nor ſnayle do no offence:</l>
+               <l>Philomele with melody. &amp;c.</l>
+            </sp>
+            <sp>
+               <speaker>1 <hi>Fairy</hi>
+               </speaker>
+               <l>Hence away now all is well</l>
+               <l>One a loofe ſtand Centinell. </l>
+            </sp>
+            <stage>Exeunt Faires.</stage>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>What thou ſeeſt when thou doſt wake
+<stage>Oberon comes to her and touches her eye lids.</stage>
+               </l>
+               <l>Do it for thy true love take,</l>
+               <l>Love and languiſh for his ſake;</l>
+               <l>Be it Ounce or Catt or Beare</l>
+               <l>Pard or Bore with Briſtled hair</l>
+               <l>In thine eye that ſhall appear,</l>
+               <l>when thou awakeſt it is thy dear</l>
+               <l>Wake then ſome vile thing is neere.
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <stage>Enter Bottome Quince Snug Flute Snoute and Starveling</stage>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Are we all met?</p>
+            </sp>
+            <sp>
+               <speaker>Quin.</speaker>
+               <p>Pat pat, and heres a marvellous convenient place for our rehearſall This green Plot ſhall be our ſtage, This hau<g ref="char:EOLhyphen"/>thorne Brake our tyring houſe, and we will do it in action as we will do it before the Duke.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>
+                  <hi>Peter Quince.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>What ſayſt thou <hi>Bully Bottome?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>There are things in this Comedy of <hi>Pyramus</hi> and <hi>Thisby</hi> that will never pleaſe, firſt <hi>Pyramus</hi> muſt draw a Sword to kill himſelf which the Ladyes can't abide, how an<g ref="char:EOLhyphen"/>ſwer you that?</p>
+            </sp>
+            <sp>
+               <speaker>Snout.</speaker>
+               <p>Berlaken a parlous feare.</p>
+            </sp>
+            <sp>
+               <speaker>Star.</speaker>
+               <p>I believe we muſt leave the killing out, when all's done.</p>
+            </sp>
+            <pb facs="tcp:119377:5"/>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Not a whit, I have advice to make all well. Write me a Prologue, and let the Prologue ſeem to ſay we will do no harme with our ſwords, and that <hi>Pyramus</hi> is not killed indeed: and for the more better aſſurance tell them that I <hi>Pyramus</hi> am nor <hi>Pyramus</hi> but <hi>Bottome</hi> the wea<g ref="char:EOLhyphen"/>ver, this will put them out of feare.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Well, we will have ſuch a Prologue and it ſhall be written in eight and ſix.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>No make it two more let it be written in eight and eight.</p>
+            </sp>
+            <sp>
+               <speaker>Snout.</speaker>
+               <p>Will not the Ladyes be afraid of the Lyon?</p>
+            </sp>
+            <sp>
+               <speaker>Star.</speaker>
+               <p>I fear it I'le promiſe you.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Maſters we ought to conſider with our ſelves to bring in (God ſheild us) a Lyon among Ladies is a moſt dreadful thing, For there is not a more fearfull wild-foule then your Lion living, and we ought to look to it.</p>
+            </sp>
+            <sp>
+               <speaker>Snout.</speaker>
+               <p>Therefore another Prologue muſt tell he is not a Lyon.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Nay, You muſt name his name, and halfe his face muſt be ſeen through the Lions Neck, and he himſelf muſt ſpeak through ſaying thus, or to the ſame effect, Ladyes or faire Ladyes, I would wiſh you, or I would requeſt you, or I would intreat you not to tremble; my life for yours, if you think I come hither as a Lyon it were pitty of my life, no, I am no ſuch thing I am a man as other men are, and there indeed let him name his name and teil plainly I am <hi>Snug</hi> the Joyner.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Well it ſhall be ſo: But there is two hard things, that is to bring the moon light into a Chamber, for you know <hi>Pyramus</hi> and <hi>Thisbe</hi> met by moonlight.</p>
+            </sp>
+            <sp>
+               <speaker>Snug.</speaker>
+               <p>Doth the moon ſhine that night we play our play.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>A Calender a Calender look in the Almanack find out moonſhine ſind out moonſhine.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Yes, it doth ſhine that night?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>why then may you leave a caſement of the great Chamber window where we play open, and the Moon may ſhine in at the Caſement.</p>
+            </sp>
+            <pb facs="tcp:119377:6"/>
+            <sp>
+               <speaker>Qui.</speaker>
+               <p>I, or elſe one muſt come with a bunch of Thornes and a Lanthorne, &amp; ſay he comes to disfigure, or to preſent the perſon of Moon-ſhine. Then there is another thing, we muſt have a wall in the great Chamber, for <hi>Pyramus</hi> and <hi>Thisbe</hi> (ſaies the ſtory) did talk through the Chink of a wall.</p>
+            </sp>
+            <sp>
+               <speaker>Snug.</speaker>
+               <p>You can never bring in a Wall, what ſay you <hi>Bot<g ref="char:EOLhyphen"/>tom?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Some man or other muſt preſent Wall, and let him have ſome Plaiſter, or ſome Lome, or ſome Rough caſt about him to ſignifie Wall, or let him hold his fingers thus, and through that Crany ſhall <hi>Pyramus</hi> and <hi>Thisbe</hi> whiſper.</p>
+            </sp>
+            <sp>
+               <speaker>Qui.</speaker>
+               <p>If that may be then all is well, come ſit down eve<g ref="char:EOLhyphen"/>ry mothers ſon and rehearſe your parts, <hi>Pyramus</hi> you begin, when you have ſpoken your ſpeech enter into that Brake, and ſo every man according to his Cue—</p>
+            </sp>
+            <stage>Enter <hi>Pug.</hi>
+            </stage>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>What Hempen Home-ſpuns have we ſwaggering here ſo neer the Cradle of the Fayry Queen. What? a play toward? I'le be an Auditor, and Actor too perhaps if I ſea cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Quin.</speaker>
+               <p>Speak <hi>Pyramus Thisby</hi> ſtand forth.</p>
+            </sp>
+            <sp>
+               <speaker>Pyra.</speaker>
+               <p>
+                  <hi>Thisby,</hi> the flowers of Odious ſavours ſweet.</p>
+            </sp>
+            <sp>
+               <speaker>Quin.</speaker>
+               <p>Odours, Odours.</p>
+            </sp>
+            <sp>
+               <speaker>Pira.</speaker>
+               <p>Odours ſavours ſweet, ſo hath thy breath my deareſt <hi>Thisbe</hi> dear. But hark a voice: ſtay thou but here a while, and by and by I will to thee appear.</p>
+            </sp>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>A ſtranger <hi>Piramus</hi> then ere plaid here.
+<stage>Exit. Pyr. Exit after him</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>Muſt I ſpeak now?</p>
+            </sp>
+            <sp>
+               <speaker>Quin.</speaker>
+               <p>I marry muſt you. For you muſt underſtand that he goes but to ſee a Noyſe that he heard, and is to come again.</p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>Moſt Radiant <hi>Pyramus,</hi> Moſt Lilly white of hue.
+<pb facs="tcp:119377:6"/>Of colour like the red Roſe on triumphant Bryer. Moſt Brisky Juvenal, and the moſt lovely Jew. As true as trueſt Horſe that never yet would Tyre. I'le meet thee <hi>Pyramus</hi> at <hi>Ninus</hi> Tombe.</p>
+            </sp>
+            <sp>
+               <speaker>Qui.</speaker>
+               <p>
+                  <hi>Ninus</hi> Tombe man: why, you muſt not ſpeak that yet; That you anſwer to <hi>Piramus:</hi> you ſpeak all your part at once Cues and all, <hi>Piramus</hi> enter, your Cue is paſt, it is, ne<g ref="char:EOLhyphen"/>ver Tire.</p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>O as true as trueſt Horſe that yet would never Tire.</p>
+            </sp>
+            <sp>
+               <speaker>Pir.</speaker>
+               <p>If I were faire <hi>Thisby</hi> I were only thine.</p>
+            </sp>
+            <sp>
+               <speaker>Quince.</speaker>
+               <p>O monſtrous! O ſtrange! we are haunted; pray maſters fly-Maſters help.
+<stage>Exeunt the Clownes</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>I'le follow you, I'le lead you about a round. Through Bog, through Buſh, through Brake, through Bryar. Sometimes a Horſe I'le be, ſometimes a Hound, a Hogge, a headleſſe Beare; ſometimes a Fire, and Neigh, and Bark, and Grunt, and Roare, and Burn, like horſe, hound, hog, beare, fire, at every turne,</p>
+            </sp>
+            <stage>Enter <hi>Bottome</hi> with an Aſſes head.</stage>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Why do they run away, this is knavery of them to make me afeard.</p>
+            </sp>
+            <stage>Enter Snout.</stage>
+            <sp>
+               <speaker>Sno.</speaker>
+               <p>O <hi>Bottome</hi> thou art changed, what do I ſee on thee?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>What do I ſee? you ſee an Aſſes head of your own do you?</p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Peter Quince</stage>
+            <sp>
+               <speaker>Quin.</speaker>
+               <p>Bleſſe thee <hi>Bottome,</hi> bleſſe thee, thou art tranſla<g ref="char:EOLhyphen"/>ted.
+<stage>Exeunt</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I ſee their knavery, this is to make an aſſe of me, and fright me if they could, but I will not ſtir from this place do they what they can, I will walk up and down here,
+<pb facs="tcp:119377:7"/>and will ſing, that they ſhall hear I am not afraid.</p>
+               <stage>he ſings</stage>
+               <l>The Wooſel cock ſo black of hew,</l>
+               <l>with Orange Tawny bill.</l>
+               <l>The Throſ'le with his note ſo true,
+<stage>Queen of Fairy wakes and looks upon him.</stage>
+               </l>
+               <l>the Wren and little quill.</l>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <p>What Angel wakes me from my flowry bed?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <l>The Finch, the Sparrow, and the Lark.</l>
+               <l>The Plain-ſong Cuckow Gray,</l>
+               <l>whoſe note full many a man doth Mark,</l>
+               <l>and dare not anſwer Nay.</l>
+               <p>For indeed who ſhould ſet his wit to ſo fooliſh a bird? who would give a bird the lye though he ſhould cry Cuckow ne<g ref="char:EOLhyphen"/>ver ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>I pray thee gentle mortal ſing again,</l>
+               <l>mine eare is much enamoured of thy note.</l>
+               <l>On the firſt view to ſay, to ſweare I love thee</l>
+               <l>ſo is mine eye enthralled to thy ſhape</l>
+               <l>and thy faire vertues force (perforce) doth move me.</l>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Me thinks (Miſtreſſe) you ſhould have little rea<g ref="char:EOLhyphen"/>ſon for that, and yet to ſay truth reaſon and love keep little company together now adayes. The more the pitty that ſome honeſt neighbours will not make them freinds. Nay I can Gleek upon occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <p>Thou art as wiſe as thou art beautifull.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Not ſo neither: but if I had wit enough to get out of this Wood, I have enough to ſerve my own t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>Out of this wood do not deſire to go.</l>
+               <l>Thou ſhalt remaine here whether thou wilt or no.</l>
+               <l>I am a ſpirit of no common fare</l>
+               <l>The ſummer ſtill doth tend upon my ſtate,</l>
+               <l>and I do love thee, therefore go with me</l>
+               <l>I'le give thee Fairies to attend on thee,</l>
+               <l>and they ſnall fetch thee jewels from the Deep,</l>
+               <l>and ſing while thou on preſſed flowers doſt ſleep,</l>
+               <l>and I will purge thy mortall groſſeneſs ſo,</l>
+               <pb facs="tcp:119377:7"/>
+               <l>That thou ſhalt like a Ayery ſpirit go.</l>
+            </sp>
+            <stage>Enter Peaſebloſſome, Cobweb, and Muſtarſeed three Fairies</stage>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Ready and I, and I, and I, where ſhall we go.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>Be kind and curteous to this Gentleman,</l>
+               <l>hop in his walks and Gambol in his eyes.</l>
+               <l>feed him with apricots and Dewberries,</l>
+               <l>with purple Grapes, Green Figs, and Mulberries.</l>
+               <l>The honey bags ſteale from the humble Bees,</l>
+               <l>and for white tapers crop their waxen thighs,</l>
+               <l>and light them at the fiery glow-wormes eyes</l>
+               <l>To have my love to bed and to ariſe,</l>
+               <l>And pluck the wings from painted Butterflies</l>
+               <l>To Fan the Moon-beames from his ſleeping eyes.</l>
+               <l>Nod to him Elves, and do him Curteſies.</l>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Fai.</hi>
+               </speaker>
+               <p>Haile mortal Haile.</p>
+            </sp>
+            <sp>
+               <speaker>1. 2. <hi>Fai.</hi>
+               </speaker>
+               <p>Haile.</p>
+            </sp>
+            <sp>
+               <speaker>3. <hi>Fai.</hi>
+               </speaker>
+               <p>Haile.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I cry your worſhips heartily mercy. I beſeech your worſhips name.</p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Cobweb.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I ſhall deſire you of more acquaintance good Ma<g ref="char:EOLhyphen"/>ſter <hi>Cobweb,</hi> if I cut my ſinger, I ſhall make bold with you. Your name honeſt Gentleman?</p>
+            </sp>
+            <sp>
+               <speaker>Peaſ.</speaker>
+               <p>Peaſe-bloſſome.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I pray commend me to Mrs. <hi>Squaſh</hi> your Mother and to Maſter <hi>Peaſe-cod</hi> your Father, I ſhall deſire of you more acquaintance too.</p>
+               <l>Your name I beſeech you Sir.</l>
+            </sp>
+            <sp>
+               <speaker>Muſ.</speaker>
+               <p>
+                  <hi>Muſtard-ſeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Good Mr. <hi>Muſtard-ſeed,</hi> I know your patience well? That ſame cowardly Giant-like Ox-Beefe hath de<g ref="char:EOLhyphen"/>voured many a Gentleman of your houſe; I promiſe your kindred have made my eyes water ere now. I deſire
+<pb facs="tcp:119377:8"/>you more acquaintance good Maſter <hi>Muſtard-ſeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>Come waite upon him, lead him to my Bower.</l>
+               <l>The Moon me thinks looks with a warry eye,</l>
+               <l>And when ſhe weeps, weep every little Flower:</l>
+               <l>Lamenting ſome enforced chaſtity.</l>
+               <l>Tye up my lovers tongue, bring him ſilently.</l>
+            </sp>
+            <stage>Exeunt</stage>
+            <stage>
+               <hi>Enter Oberon King of Fairies</hi> Solus.</stage>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>I wonder if <hi>Titania</hi> he awaked.</l>
+               <l>Then what it was that next came in her eye,</l>
+               <l>Which ſhe muſt dore on in extremity.</l>
+               <stage>
+                  <hi>Enter</hi> Pugg.</stage>
+               <l>Here comes my meſſenger, now now Mad ſpirit</l>
+               <l>What night-rule now about this haunted Grove?</l>
+            </sp>
+            <sp>
+               <speaker>Pugg.</speaker>
+               <l>My Miſtreſſe with a Monſter is in love</l>
+               <l>Near to her Cloſe and conſecrated bower,</l>
+               <l>Whiles ſhe was in her dull and ſleeping hower</l>
+               <l>A Crew of Patches, rude Mechanicals,</l>
+               <l>That work for bread upon <hi>Athenian</hi> ſtalls,</l>
+               <l>Were met together to rehearſe a play</l>
+               <l>Intended for great <hi>Theſeus</hi> Nuptial day.</l>
+               <l>The ſhalloweſt Thick-skin of that barren ſort,</l>
+               <l>Who <hi>Piramus</hi> preſented in their ſport.</l>
+               <l>Forſook his Scene, and entred in a brake</l>
+               <l>Where I did him at this advantage take;</l>
+               <l>An Aſſes Noſe I fixed on his head,</l>
+               <l>Anon his <hi>Thisby</hi> muſt be anſwered,</l>
+               <l>And forth my mimick comes when they him ſpy,</l>
+               <l>As Wild-geeſe that the creeping Fowler eye;</l>
+               <l>Or ruſſet-pated Choughs many in ſort</l>
+               <l>(Riſing and cawing at the Guns report)</l>
+               <l>Sever themſelves, and madly ſweep the sky,</l>
+               <pb facs="tcp:119377:8"/>
+               <l>So at his ſight away his fellows fly,</l>
+               <l>and at our ſtamp ore and ore one falls</l>
+               <l>He murther cryes, and help from Athens calls.</l>
+               <l>Their ſenſe thus weak loſt with their fear thus ſtrong</l>
+               <l>Made ſenceleſs things begin to do them wrong.</l>
+               <l>For Bryars and Thornes at their apparel ſnatch</l>
+               <l>Some ſleeves, ſome hats, from Yeilders all things catch.</l>
+               <l>I led them on in this diſtracted feare,</l>
+               <l>And left ſweet <hi>Pyramus</hi> tranſlated there.</l>
+               <l>When in that moment ſo it came to paſſe</l>
+               <l>
+                  <hi>Titania</hi> wak'd, and ſtraight-way lov'd an aſſe.</l>
+            </sp>
+            <stage>Exit</stage>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>This fall out better then I could deviſe,</l>
+               <l>I ſhall now be avenged upon my Queen.</l>
+               <l>But ſee ſhe comes, I'le ſtand aſide.</l>
+            </sp>
+            <stage>Enter Queen, Bottome, Fairies.</stage>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>Come ſit thee down upon this Flowry bed,</l>
+               <l>While I thy aimable Cheeks do coy,</l>
+               <l>And ſtick musk Roſes on thy ſleek ſmooth head,</l>
+               <l>And kiſs thy faire large eares, my gentle Joy.</l>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Where's <hi>Peaſe-bloſſome?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Peaſ.</speaker>
+               <p>Ready.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Scratch my head <hi>Peaſe-bloſſome,</hi> where's Monſieur <hi>Cobweb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cob.</speaker>
+               <p>Ready.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Monſeur <hi>Cobweb,</hi> good Monſeur get your weapons in your hand, and kill me a red humble Bee on the top of a Thiſtle, and good Monſieur bring me the honey bag. Do not fret your ſelf too much in the action Monſieur, and good Monſieur have a care the honey bag break not, I would be loath to have you ore flown with a honey bag Signior. Where's Monſieur <hi>Muſtard-ſeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Muſ.</speaker>
+               <p>Ready.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <l>Give me your newfe Monſieur <hi>Muſtard-ſeed.</hi>
+               </l>
+               <pb facs="tcp:119377:9"/>
+               <l>Pray le ave your Curteſie good Monſieur.</l>
+            </sp>
+            <sp>
+               <speaker>Muſ.</speaker>
+               <p>What's your will?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Nothing good Monſieur, but to help Cavaliero <hi>Cob<g ref="char:EOLhyphen"/>web</hi> to ſcratch; I muſt to the Barbers Monſieur, for me thinks I am marvaillous hairy about the face, and I am ſuch a Tender aſſe if my hair does but tickle me I muſt ſcratch.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <p>What wilt thou hear ſome muſick my ſweet love?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I have a reaſonable good eare in muſick, let us hear the Tong and the bones.</p>
+            </sp>
+            <stage>Muſick Tongs Rurall Muſick.</stage>
+            <sp>
+               <speaker>Tita.</speaker>
+               <p>Or ſay ſweet love what thou deſireſt to eate?</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Truly a peck of provender, I could maunch your good dry Oates, me thinks I have a great deſire to a bottle of hay, good hay, ſweet hay hath no fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>I have a ventrous Fairy</l>
+               <l>That ſhall ſeek the Squirils hoard</l>
+               <l>And fetch the new Nuts</l>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>I had rather have a handfull or two of dried peaſe. But I pray let none of your people ſtirr me, I have an expoſi<g ref="char:EOLhyphen"/>tion of ſleep come upon me.</p>
+            </sp>
+            <sp>
+               <speaker>Tita.</speaker>
+               <l>Sleep thou and I will winde the in my armes</l>
+               <l>Fairies begon and be allwaies away</l>
+               <l>So doth the wood bind the ſweet Honiſuckle</l>
+               <l>Gently entwiſt, the female Ivy ſo</l>
+               <l>Enrings the barky fingers of the Elme</l>
+               <l>O how I love thee? How I dote on thee?</l>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <l>Welcome good <hi>Pug.</hi>
+                  <stage>Oberon approaches</stage>
+               </l>
+               <l>Seeſt thou this ſweet ſight?
+<stage>Enter Pug,</stage>
+               </l>
+               <l>Her dotage now do I begin to pitty</l>
+               <l>For meeting her of late behind the wood</l>
+               <l>Seeking ſweet favours for this hateful fool</l>
+               <l>I did upbraid her and fall out with her,</l>
+               <l>For ſhe his hairy temples then had rounded</l>
+               <l>With Coronet of freſh and Fragrant flowers,</l>
+               <l>And that ſame Dew which ſome time on the buds</l>
+               <pb facs="tcp:119377:9"/>
+               <l>Was wont to ſwell like round and orient pearl;</l>
+               <l>I ſtood now within the pretty flouriers eyes</l>
+               <l>Like teares that did there own diſgrace bewaiſe</l>
+               <l>And ſhe in mild terms begd my patience</l>
+               <l>I then did aske of her her Changeling child</l>
+               <l>Which ſtreight ſhe gave me and her fairy ſent</l>
+               <l>To beare him to my bower in Fairy land.</l>
+               <l>And now I have the boy I will undo</l>
+               <l>This hateful imperfection of her eyes</l>
+               <l>And gentle <hi>Pug</hi> take this transformed Scalpe</l>
+               <l>From off the head of this Athenian ſwain</l>
+               <l>That he awaking may returne to Athens</l>
+               <l>and thinke no more of this nights accidents</l>
+               <l>But as the ſierce vexation of a dream</l>
+               <l>But firſt I will releaſe my fairy Queen.</l>
+               <l>
+                  <hi>Bee thou as thou was wont to be</hi>
+               </l>
+               <l>
+                  <hi>See thou as thou was wont to ſee,</hi>
+               </l>
+               <l>
+                  <hi>Dians bud or Cupids Flower</hi>
+               </l>
+               <l>
+                  <hi>Hath ſuch force and bleſſed power.</hi>
+               </l>
+               <l>Now my <hi>Titania</hi> wake you my ſweet Queen</l>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <l>My <hi>Oberon</hi> what viſions have I ſeen</l>
+               <l>Me thought <hi>I</hi> was inamored of an aſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <p>There lies your love.</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <l>How came theſe things to paſs</l>
+               <l>Oh how mine eyes do loath this viſage now.</l>
+            </sp>
+            <sp>
+               <speaker>Ob.</speaker>
+               <p>Silence a while. <hi>Pug</hi> take thou off his head</p>
+            </sp>
+            <stage>he puls off his aſſes head</stage>
+            <sp>
+               <speaker>Pug.</speaker>
+               <p>When thou awakes with thine own fools eyes peep.</p>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>After a while Bottome wakes.</stage>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>When my cue comes call me, and I will anſwer, my next is moſt faire <hi>Pyramus</hi> hei ho. <hi>Peter Quince, Flute</hi> the bellowes mender? <hi>Snout</hi> the Tinker? <hi>Starveling?</hi> Gods my life ſtolne hence and left me aſleep, I have had a moſt rare viſion, I had a dream paſt the witt of man to ſay what
+<pb facs="tcp:119377:10"/>dream it was. Man is but an Aſſe if he go about to expound this dream, me thought I was thers no man can tell what me thought I was, and me thought I had, but a man is but a patched fool if he will offer to ſay what me thought I had, the eye of man hath not heard, the eare of man hath not ſeen, mans hand is not able to caſt, his tongue to conceive, not his heart report what my dream, was. I will get <hi>Peter Quince</hi> to write a Ballad of this dream, it ſhall be called <hi>Bottomes</hi> dream becauſe it hath no Bottom and I will ſing it in the la<g ref="char:EOLhyphen"/>ter end of the Play before the Duke, peradventure to make, it the more gratious I will ſing it at her death.
+<stage>Exit</stage>
+               </p>
+            </sp>
+            <stage>Enter Quince, Flute, Thisby, Snout and Starveling.</stage>
+            <sp>
+               <speaker>Qu,</speaker>
+               <p>Have you ſent to <hi>Bottoms</hi> houſe? is he come yet?</p>
+            </sp>
+            <sp>
+               <speaker>Star.</speaker>
+               <p>He cannot be heard of, out of doubt he is tranſpor<g ref="char:EOLhyphen"/>ted.</p>
+            </sp>
+            <sp>
+               <speaker>Flute.</speaker>
+               <p>If he come not then the play is marrd, it goes not forward doth it?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>It is not poſſible, you have not a man in all <hi>Athent</hi> able to diſcharge <hi>Pyramus</hi> but he.</p>
+            </sp>
+            <sp>
+               <speaker>Flut.</speaker>
+               <p>Noe: He hath ſimply the beſt wit of any handy<g ref="char:EOLhyphen"/>crafts man in <hi>Athens.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Yea and the beſt perſon too, and he is a very Para<g ref="char:EOLhyphen"/>mour for a ſweet voice.</p>
+            </sp>
+            <sp>
+               <speaker>Flu.</speaker>
+               <p>You muſt ſay Paragon, a Paramour is God bleſſe us a thing of naught.</p>
+            </sp>
+            <stage>Enter Snug the Ioyner.</stage>
+            <sp>
+               <speaker>Snug</speaker>
+               <p>Maſters, the Duke is now coming from being mar<g ref="char:EOLhyphen"/>ried at the Temple, oh if our ſport had gone forward, we had all been made men.</p>
+            </sp>
+            <sp>
+               <speaker>Flu.</speaker>
+               <p>O ſweet Bully <hi>Bottome,</hi> thou haſt loſt ſix pence a day during his life, he could not have ſcaped ſix pence a day, and the Duke had not given him ſixpence a day for playing <hi>Pyra<g ref="char:EOLhyphen"/>mus</hi>
+                  <pb facs="tcp:119377:10"/>I'le be hang'd, he would have deſerved ſixpence a day in <hi>Pyramus</hi> or nothing.</p>
+            </sp>
+            <stage>Enter Bottome.</stage>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Where are theſe lads? Where are theſe hearts?</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>
+                  <hi> Bottome!</hi> O moſt couragious day! oh moſt hapy hour<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Maſters I am to diſcourſe wonders, but aske me not what, for if I tell you I am no true <hi>Athenian,</hi> I will tell you every thing as it fell out.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>Let us hear ſweet <hi>Bottome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>Not a word of me, all that I will tell you is that the Duke hath dined, get your apparel together, good ſtrings to your beards, new Ribbands to your Pumps, meet pre<g ref="char:EOLhyphen"/>ſently in the Pallace every man look over his part for the ſhort and the long is, our play is preferred, in any caſe let <hi>Thisby</hi> have clean linnen: and let not him that plaies the Lyon pare his Nailes for they ſhall hang out for the Ly<g ref="char:EOLhyphen"/>ons clawes, and moſt dear actors eate no Onions nor Garlick, for we are to utter ſweet breath and doubt not to hear them ſay it is a ſweet Comedy. No more words away: go away.</p>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>Enter Duke, Dutcheſs and two Lords.</stage>
+            <sp>
+               <speaker>Egaeus.</speaker>
+               <l>May all things prove propitious to this match</l>
+               <l>And heavens power down whole ſhowers of joy to waite</l>
+               <l>Within your Royal walkes your Board, your bed</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Thanks kind <hi>Egaeus,</hi> but what pleaſant maskes</l>
+               <l>What dances have we now to weare away</l>
+               <l>This long age of three hours which yet we have</l>
+               <l>To ſpend ere bed time?</l>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lord.</hi>
+               </speaker>
+               <l>And't pleaſe your grace, there is a ſcene</l>
+               <l>Tedious yet breif to be preſented of</l>
+               <l>The love of <hi>Pyramus</hi> and <hi>Thisbe</hi>
+               </l>
+               <l>Mirth very Tragical</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>Merry and Tragical? tedious and breif. That is hot Ice, and wondrous Strange ſnow? how ſhall we find a concord in this diſcord?</p>
+            </sp>
+            <pb facs="tcp:119377:11"/>
+            <sp>
+               <speaker>2. <hi>Lord.</hi>
+               </speaker>
+               <l>A play there is my Lord, ſome ten words long</l>
+               <l>Which is as briefe as I have known a play,</l>
+               <l>But by ten words my Lord it is too long</l>
+               <l>Which makes it tedious, For in all the play</l>
+               <l>Theres not one word apt, one player fitted;</l>
+               <l>And Tragical my noble Lord it is</l>
+               <l>For <hi>Pyramus</hi> therein doth ſkill himſelf</l>
+               <l>Which when I ſaw rehearſt I muſt confeſs</l>
+               <l>Made my eyes water but more merry tears</l>
+               <l>The paſſion of loud laughter never ſhed</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <p>What are they that do play it?</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lord</hi>
+               </speaker>
+               <l>Hard handed men that worke in <hi>Athens</hi> here</l>
+               <l>Which never laboured in their minds till now</l>
+               <l>And now have toyled their unbreathed memories</l>
+               <l>With this ſame play againſt your Nuptials</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>And we will hear it, let them approach.</p>
+            </sp>
+            <stage>They take their ſeates, Enter Prologue.</stage>
+            <sp>
+               <speaker>Pro.</speaker>
+               <l>If we offend it is with our good will.</l>
+               <l>That you ſhould think we come not to offend</l>
+               <l>But with good will, To ſhew our ſimple skil,</l>
+               <l>That is the true beginning of our end.</l>
+               <l>Conſider then, we come but in deſpite,</l>
+               <l>We do not come as minding to content you</l>
+               <l>Our true intent is. All for your delight</l>
+               <l>We are not here. That you ſhould here repent you</l>
+               <l>The actors are at hand, And by their ſhow</l>
+               <l>You ſhall know all that you are like to know.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>This fellow doth not ſtand upon points.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lord.</hi>
+               </speaker>
+               <p>He hath read his prologue like a Rough Colt, he knowes not the Stop. A good moral my Lord. It is not enough to ſpeak, but to ſpeak true.</p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>Indeed he hath plaid on his Prologue like a Child on the recorder, a ſound but <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot in government.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>His ſpeech was like a tangled chaine nothing im<g ref="char:EOLhyphen"/>paired but all diſordered. Who is the next?</p>
+            </sp>
+            <pb facs="tcp:119377:11"/>
+            <stage>Enter Pyramus Thisbe, Wall, Moonſhine and Lyon.</stage>
+            <sp>
+               <speaker>Prolo.</speaker>
+               <l>Gentels perchance you wonder at this ſhow;</l>
+               <l>But wonder on till truth doth make all things plain:</l>
+               <l>This man is <hi>Pyramus</hi> if you would know;</l>
+               <l>This beauteous Lady <hi>Thisbe</hi> is certain.</l>
+               <l>This man with Lime and Rough-caſt doth preſent</l>
+               <l>Wall the vile Wall which did theſe lovers ſunder,</l>
+               <l>And through Walls chink (poor ſoules) they are content</l>
+               <l>To whiſper, at the which let no man wonder.</l>
+               <l>This man with Lanthorne Dog, and buſh of Thorne</l>
+               <l>Preſenteth Moon-ſhine; for if you will know,</l>
+               <l>By Moon-ſhine did theſe lovers think no ſcorne</l>
+               <l>To meet at <hi>Ninus</hi> Tombe, there there to woe.</l>
+               <l>This Griſly beaſt (which Lyon height by name)</l>
+               <l>The truſty <hi>Thisbe</hi> coming firſt by night</l>
+               <l>Did ſcare away, or rather did affright,</l>
+               <l>And as ſhe ſled her mantle ſhe did fall,</l>
+               <l>Which Lyon vile with bloody mouth did ſtaine;</l>
+               <l>Anon comes <hi>Pyramus</hi> ſweet youth and tall,</l>
+               <l>And finds his gentle <hi>Thisbie's</hi> mantle ſlaine,</l>
+               <l>Whereat with blade, with bloody blameful blade</l>
+               <l>He bravely broach't his bloody boiling breaſt,</l>
+               <l>And <hi>Thisbe</hi> tarrying in Mulberry ſhade</l>
+               <l>His Dagger drew and dyed. For all the reſt</l>
+               <l>Let <hi>Lyon, Moon-ſhine, Wall,</hi> and Lovers twaine</l>
+               <l>At large diſcourſe, while here they do remaine.</l>
+            </sp>
+            <stage>Exeunt all but Wall.</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>I wonder if the Lyon be to ſpeak?</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>No wonder my Lord, one Lyon may, when ma<g ref="char:EOLhyphen"/>ny Aſſes do.</p>
+            </sp>
+            <sp>
+               <speaker>Wall.</speaker>
+               <l>In this ſame enterlude it doth befall</l>
+               <l>That I one <hi>Snug</hi> (by name preſent a wall,</l>
+               <l>And ſuch a wall as I would have you think</l>
+               <l>As had in it a cr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nned hole or chink,</l>
+               <l>through which the Lovers <hi>Pyramus</hi> and <hi>Thisbe,</hi>
+               </l>
+               <pb facs="tcp:119377:12"/>
+               <l>Did whiſper often very ſecretly.</l>
+               <l>This loame, this rough-caſt, and this ſtone doth ſhow</l>
+               <l>that I am that ſame wall the truth is ſo,</l>
+               <l>And this the Cranny is right and ſiniſter,</l>
+               <l>through which the fearful lovers are to whiſper.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>VVould you deſire lime and haire to ſpeak better.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>It is the wittieſt partition that ever I heard diſ<g ref="char:EOLhyphen"/>courſe my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>
+                  <hi>Pyramus</hi> draws near the wall, Silence—</p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Pyramus</stage>
+            <sp>
+               <speaker>Pyra.</speaker>
+               <l>O Grim lookt night! O night with hue ſo black!</l>
+               <l>O night which ever art when day is not.</l>
+               <l>O night, O night, alack, alack, alack</l>
+               <l>I fear my <hi>Thisbie's</hi> promiſe is forgot;</l>
+               <l>And thou O wall, thou ſweet and lovely wall,</l>
+               <l>that ſtands between her fathers ground and mine,</l>
+               <l>Thou Wall, O Wall, O ſweet and lovely Wall</l>
+               <l>Shew me thy Chink to blink through with mine eyes.</l>
+               <l>Thanks Curteous Wall; <hi>Iove</hi> ſheild thee well for this.</l>
+               <l>But what ſee I? No <hi>Thisby</hi> do I ſee.</l>
+               <l>O witched Wall through whom I ſee no bliſſe:</l>
+               <l>Curſt be thy ſtones for thus deceiving me.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>The Wall me thinks being ſenſible ſhould curſe againe.</p>
+            </sp>
+            <sp>
+               <speaker>Pyram.</speaker>
+               <p>No in truth Sir he ſhould not, <hi>Deceiving me</hi> Is <hi>Thisbies</hi> Cue, ſhe is to enter, and I am to ſpy her through the Wall, you ſhall ſee it will fall.</p>
+               <stage>Enter Thisby.</stage>
+               <p>Pat as I told you; yonder ſhe comes.</p>
+            </sp>
+            <sp>
+               <speaker>Thisb.</speaker>
+               <l>O Wall full often haſt thou heard my moanes</l>
+               <l>For parting my faire <hi>Pyramus</hi> and me.</l>
+               <l>My Cherry lips have often kiſt thy ſtones,</l>
+               <l>Thy ſtones with Lime and Haire knit up in thee.</l>
+            </sp>
+            <sp>
+               <speaker>Pyra.</speaker>
+               <l>I hear a voice, Now will I to the Chink</l>
+               <l>To ſpy if I can ſee my <hi>Thisbies</hi> face. <hi>Thisby.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>My love, thou art my love I think.</p>
+            </sp>
+            <pb facs="tcp:119377:12"/>
+            <sp>
+               <speaker>Pyra.</speaker>
+               <l>Think what thou wilt I am thy lovers Grace,</l>
+               <l>And like <hi>Limander</hi> am I truſty ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>And I like <hi>Helen</hi> till the fates me kill.</p>
+            </sp>
+            <sp>
+               <speaker>Pira.</speaker>
+               <p>Not <hi>Thafalus</hi> to <hi>Procrus</hi> was ſo true.</p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>As <hi>Shalafus</hi> to <hi>Procrus</hi> I to you.</p>
+            </sp>
+            <sp>
+               <speaker>Pira.</speaker>
+               <p>O kiſſe me through the hole of this vile Wall.</p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>I kiſſe the Wall hole, not your lips at all.</p>
+            </sp>
+            <sp>
+               <speaker>Pira.</speaker>
+               <p>Will thou at <hi>Ninnies</hi> tombe meet me ſtraight way?</p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <p>Tide life ride death I'le come without delay.</p>
+            </sp>
+            <stage>Exeunt Pir. and Thisby.</stage>
+            <sp>
+               <speaker>Wall.</speaker>
+               <p>Thus have I VVall my part diſcharged ſo.</p>
+            </sp>
+            <stage>Exit Wall</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>Now is the Moral downe between the two neigh<g ref="char:EOLhyphen"/>bours.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>No remedy my Lord when Walls are ſo wilfull.</p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>This is the ſillieſt ſtuffe that ever I heard.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>The beſt in this kinde are but ſhaddows, and the worſt no worſe, if imagination amend them.</p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>It muſt be your imagination then, not theirs.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>If we imagine no worſe of them then they of themſelves, they may paſſe for excellent men. Here comes two noble Beaſts in, a Man and a Lyon.</p>
+            </sp>
+            <stage>Enter Lyon and Moon-ſhine.</stage>
+            <sp>
+               <speaker>Lyon.</speaker>
+               <l>You Ladies, you whoſe gehtle hearts do fear</l>
+               <l>the monſtrous Mouſe that creeps on floore;</l>
+               <l>May now perchance both quake and tremble here,</l>
+               <l>When Lyon rough in wildeſt rage doth roare.</l>
+               <l>Then know that I one <hi>Snug</hi> the Joyner am,</l>
+               <l>A Lyon fell, nor elſe no Lyons damme,</l>
+               <l>For if I ſhould as Lyon come in ſtrife</l>
+               <l>Into this place, t'were pitty of my life.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>A very gentle beaſt, and of a good conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>The very beſt at a beaſt my Lord that ever I ſaw.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lor.</hi>
+               </speaker>
+               <p>This Lyon is a very Fox for his valour.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>True, and a Gooſe for his diſcretion.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>Not ſo my Lord, for his valour cannot carry his
+<pb facs="tcp:119377:13"/>diſcretion, and the Fox carries the Gooſe.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>His diſcretion I am ſure cannot carry his valour, for the Gooſe carries not the Fox. It is well, leave it to his diſcretion.</p>
+            </sp>
+            <sp>
+               <speaker>Moon.</speaker>
+               <p>This Lanthorne doth the horned Moon preſent.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>He ſhould have worne the horns on his head.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>He is no Creſcent, and his horns are inviſible within the circumference.</p>
+            </sp>
+            <sp>
+               <speaker>Moon.</speaker>
+               <p>This Lanthorne doth the horned Moon preſent; my ſelf the man ith Moon doth ſeeem to be.</p>
+            </sp>
+            <sp>
+               <speaker>Duke,</speaker>
+               <p>This is the greareſt error of all the reſt, the man ſhould be put in the Lanthorne, how is he elſe the man in the Moon.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>He dares not come in there for the Candle, for you ſee 'tis already in ſnuffe.</p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>I am weary of this moon, would he would change,</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>It appears by his ſmall light of Diſcretion that he is in the Waine: but yet in curteſie in all reaſon we muſt ſtay the time.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lor.</hi>
+               </speaker>
+               <p>Proceed Moon?</p>
+            </sp>
+            <sp>
+               <speaker>Moon.</speaker>
+               <p>All that I have to ſay is, to tell you that the Lan<g ref="char:EOLhyphen"/>thorne is the Moon; <hi>I</hi> the man in the Moon, this thorne-Buſh my buſh, and this Dog my Dog.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Dor.</hi>
+               </speaker>
+               <p>Why, all theſe ſhould be in the Lanthorne, for they are in the Moon. But ſilence, here comes <hi>Thisbe.</hi>
+               </p>
+            </sp>
+            <stage>Enter Thisbe</stage>
+            <sp>
+               <speaker>This.</speaker>
+               <p>This is old <hi>Ninnies</hi> tombe: where is my love.</p>
+            </sp>
+            <sp>
+               <speaker>Lyon.</speaker>
+               <p>Oh—
+<stage>the Lyon roares, Thisby runs off</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lor.</hi>
+               </speaker>
+               <p>Well roar'd <hi>Lyon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>Well run <hi>Thisby.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>Well ſhone Moon. Truly the moon ſhines with a good grace.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>Well mouz'd Lyon</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lord.</hi>
+               </speaker>
+               <p>And then came <hi>Pyramus</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lord.</hi>
+               </speaker>
+               <p>And ſo the Lyon vaniſht</p>
+            </sp>
+            <stage>Enter Pyramus</stage>
+            <sp>
+               <speaker>Pyr.</speaker>
+               <l>Sweet moone I thank thee for thy ſunny beames</l>
+               <pb facs="tcp:119377:13"/>
+               <l>I thank the moon for ſhining now ſo bright</l>
+               <l>For by thy gratious golden glittering Streames</l>
+               <l>I truſt to taſt of trueſt <hi>Thisbes</hi> ſight</l>
+               <l>But ſtay: O ſpight! but marke poor knight</l>
+               <l>What dreadful dole is here?</l>
+               <l>Eyes do you ſee! How can it be!</l>
+               <l>O dainty Duke! O deare!</l>
+               <l>Thy mantell good; what ſtain'd with blood</l>
+               <l>Approach you furies fell</l>
+               <l>O Fates come come, cut thred and thrum</l>
+               <l>Quail, cruſh, conclude and quell.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>This paſſion and the death of a dear freind would go neere to make a man look ſad.</p>
+            </sp>
+            <sp>
+               <speaker>Dut.</speaker>
+               <p>Beſhrew my heart but I pity the man</p>
+            </sp>
+            <sp>
+               <speaker>Pyr.</speaker>
+               <l>O wherefore nature didſt thou Lyons ſtame?</l>
+               <l>Since Lyon wild hath here defloured my deare</l>
+               <l>Which is, no no, Which was the faireſt Dame</l>
+               <l>That livd that loved that liked that look'd with cheere</l>
+               <l>Come teares confound, out ſword and wound</l>
+               <l>The pap of <hi>Pyramus</hi>
+               </l>
+               <l>I that left pap where heart doth hap</l>
+               <l>Thus eye I thus thus thus</l>
+               <l>Now am I dead, now am I fled, my ſoul is in the sky</l>
+               <l>Tongue looſe thy light moon take thy flight</l>
+               <stage>Exit Moonſhine.</stage>
+               <l>Now dye dye dye dye dye</l>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lord.</hi>
+               </speaker>
+               <p>No dye but am ace for him for hees but one</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lord.</hi>
+               </speaker>
+               <p>Leſs then an ace man for hees dead hees nothing</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>With the help of a Surgeon he might yet reco<g ref="char:EOLhyphen"/>ver and prove an Aſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Dutch.</speaker>
+               <p>How chance moonſhine is gon before.</p>
+            </sp>
+            <stage>Thisbe comes back and finds her ſlain lover Enter Thisbe</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>She finds him by ſtarlight</l>
+               <l>Here She comes and her paſſion ends the play</l>
+            </sp>
+            <sp>
+               <speaker>Dut.</speaker>
+               <p>Me thinks ſhe ſhould not uſe a long one, for ſuch a <hi>Pyramus</hi> I hope ſhe will be breif.</p>
+            </sp>
+            <pb facs="tcp:119377:14"/>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>A Moth will turn the ballance, which <hi>Pyramus,</hi> which <hi>Thisbe</hi> is the better.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Lor.</hi>
+               </speaker>
+               <p>She hath ſpyed him already with thoſe ſweet eyes.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>And thus ſhe means. <hi>Videlicet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>This.</speaker>
+               <l>Aſleep my love? What dead my dove?</l>
+               <l>O <hi>Pyramus</hi> ariſe,</l>
+               <l>Speak, Speak. Quite dumbe? Dead, dead? a tombe</l>
+               <l>Muſt cover thy ſweet eyes.</l>
+               <l>Theſe lilly lips, this cherry noſe.</l>
+               <l>Theſe yellow Cowſlip cheeks</l>
+               <l>are gone, are gone, lovers make moane,</l>
+               <l>His eyes were as green as leeks.</l>
+               <l>O Siſters three, come come to me</l>
+               <l>with hands as pale as milk,</l>
+               <l>lay them in gore, ſince you have ſhore</l>
+               <l>with ſheares, his thred of ſilk.</l>
+               <l>Tongue not a word; Come truſty Sword,</l>
+               <l>Come blade my breaſt imbrue,</l>
+               <l>And farewell freinds, thus <hi>Thisbe</hi> ends.</l>
+               <l>Adieu Adieu Adieu.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>
+                  <hi>Moon-ſhine</hi> and lyon are left to bury the Dead.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Lor.</hi>
+               </speaker>
+               <p>
+                  <hi>I</hi> and Wall too.</p>
+            </sp>
+            <sp>
+               <speaker>Bott.</speaker>
+               <p>No <hi>I</hi> aſſure you, the wall is down that parted their Fathers. VVill it pleaſe you to ſee the Epilogue, or to hear a Burgo-mask dance between two of our company.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <p>No Epilogue pray you, for your play needs no excuſe, never excuſe. For when the Players are all Dead, there need none to be blamed. Marry if he that writ it had playd <hi>Pyramus,</hi> and hung himſelf in <hi>Thisbies</hi> Garter, it had been a fine Tragedy, and ſo it is truly, and very notably diſ<g ref="char:EOLhyphen"/>charged; but come, your Burgo-mask, let your Epilogue alone. </p>
+            </sp>
+            <stage>After a Dance, <hi>Exeunt Omnes.</hi>
+            </stage>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>If you pleaſe to repaire to our Shops aforementioned, you may be furniſhed with all Plays that were ever yet Printed.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:119377:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
